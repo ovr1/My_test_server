@@ -12,4 +12,7 @@
 
     </div>
   </body>
+  <script language="javascript">
+    console.log( {{ x }} );
+  </script>
 </html>
